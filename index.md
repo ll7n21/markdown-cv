@@ -8,7 +8,7 @@ TBC: insert 1 line bio.
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/lilytyl21/">My LinkedIn</a>
 | <a href="https://leetcode.com/u/ll7n21/">My LeetCode</a>
-| <a href="mailto:ll7n21@hotmail.com">Email me</a>a
+| <a href="mailto:ll7n21@hotmail.com">Email me</a>
 </div>
 
 
