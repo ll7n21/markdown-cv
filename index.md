@@ -32,57 +32,56 @@ Quantitative development, financial data analysis.
 __Sun Yat-Sen University__
 
 - Bachelor of Engineering
+* Major courses include: algorithm design, data structures, object-oriented programming, computer architecture, design patterns, system engineering
+* Developed solid understanding of software development lifecycles, agile methodologies, testing frameworks and version control.
+* Coursework projects involved experience in performance optimisation, debugging, integration  of complex systems.
 
 `2021 - 2022`
 __University of Southampton__
 
-- Master of Science
+- Master of Science in Statistics
+___Developed a solid foundation in statistical theory and applied modeling in:___
+* **Generalised Linear Models** -- modeling count, binary, and categorical outcomes using regression techniques beyond standard linear models.
+* **Bayesian Inference** -- applied probabilistic reasoning and MCMC techniques to update beliefs and based on observed data.
+* **Flexible Regression Models** -- modeled complex, non-linear relationships using splines and additive models.
+* **Survival Analysis** -- analyzed time-to-event data using Kaplan-Meier estimator and Cox proportional hazards models.
+* **Machine Learning** -- applied algorithms such as random forests, SVMs, and gradient boosting for prediction and classification tasks.
+* **Statistical Genetics** -- worked with high-dimensional data, learning variable selection and hypothesis testing in a biological context.
+* Gained hands-on experience through coursework involving simulation, predictive modeling, and model diagonostics using R and Python.
 
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+## Work Experience
 
-Associate, *French Academy of Science*, Paris, France
+### Software Engineer
 
+`2018 - 2020`
+__Samsung Mobile__, Guangzhou, China
+* Worked as part of the Android platform development team for flagship Samsung mobile devices, gaining exposure to enterprise-scale software systems and development lifecycle
+* Participated in peer code reviews, debugging discussions, and test planning in cross-functional engineering meetings.
+* Regularly practiced algorithmic problem-solving to maintain coding efficiency; scored highly on firm-wide internal coding assessments.
+* Developed strong understanding of test-driven development principles, low-level software architecture, and performance trade-offs in constrained environments.
+* Gained hands-on experience with version control (Git), CI/CD pipelines, and development workflows in a high-performance engineering team.
+* Executed systematic stress testing protocols on Android applications using automated testing frameworks, evaluating software stability under high-frequency interaction conditions.
+* Conducted detailed comparative analysis of operating system file structures across multiple versions, identifying optimisation opportunities through data-driven investigation.
+* Performed quantitative assessment of ROM space utilisation, creating technical reports highlighting redundancies and inefficiencies in system architecture
+* Developed and presented optimisation recommendations based on statistical analysis of file system components, demonstrating impact on overall system performance.
+* Applied theoretical knowledge from academic software engineering studies to implement structured testing methodologies.
+* Analysed complex failure patterns and performance anomalies across diverse applications, synthesising findings into comprehensive technical reports.
 
+### Assistant Manager
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2018 - 2020`
+__Deloitte__, London, England
+* Designed and implemented automated solution for processing and analysing complicated financial transaction data, creating database schema, table, function, stored procedures, delivered consolidation report, directly applicable to market data analysis
+* Developed statistical models to identify outliers and unusual patterns in large datasets, produced analytical visualisations that revealed complex relationships between variables
+* Built high-performance and robust Python data processing pipelines, reduced manual efforts by 80%
+* Engineered automated validation systems that ensured 99.8% data accuracy across multiple integrated data sources
+* Collected/Imaged electronic data from multiple sources (emails, disks, mobile devices), processed unstructured data into structured formats for electronic evidence review.
 
 
 
 <!-- ### Footer
 
 Last updated: Feb 2026 -->
-
 
