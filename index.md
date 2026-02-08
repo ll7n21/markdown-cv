@@ -1,45 +1,42 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lily Li's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lily Li
+TBC: insert 1 line bio.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/lilytyl21/">My LinkedIn</a>
+| <a href="https://leetcode.com/u/ll7n21/">My LeetCode</a>
+| <a href="mailto:ll7n21@hotmail.com">Email me</a>a
 </div>
 
 
-## Currently
+## Career Summary
 
-Standing on the shoulders of giants
+Software engineer with robust experience in coding, system design, and algorithmic problem-solving. Strong academic foundation in probabilistic modeling, statistical inference, and machine learning. Skilled in translating real-world data problems into structured, data-driven solutions.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data Structure and Algorithms, Probability theory, Statistics, Machine Learning, Data Engineering.
 
 
-### Research interests
+### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Quantitative development, financial data analysis.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014 - 2018`
+__Sun Yat-Sen University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor of Engineering
 
-- Sizar
+`2021 - 2022`
+__University of Southampton__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- Master of Science
 
 
 ## Awards
@@ -86,6 +83,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2026 -->
 
 
