@@ -3,18 +3,24 @@ layout: cv
 title: Lily Li's CV
 ---
 # Lily Li
-TBC: insert 1 line bio.
+Data Scientist+Engineer, Assistant Manager at Deloitte, seeking career transition in Quantitative Finance.
+
+<i class="fa-light fa-house"></i>London, England<br/>
+<i class="fa-solid fa-phone"></i>+44 (0)7 361 900355
+
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/lilytyl21/">My LinkedIn</a>
-| <a href="https://leetcode.com/u/ll7n21/">My LeetCode</a>
-| <a href="mailto:ll7n21@hotmail.com">Email me</a>
+<a href="ll7n21.github.io/markdown-cv/"><i class="fa-solid fa-id-badge"></i>CV</a>
+| <a href="https://www.linkedin.com/in/ll7n21/"><i class="fa-brands fa-linkedin">LinkedIn</a>
+| <a href="https://leetcode.com/u/ll7n21/"><i class="cib-leetcode"></i>LeetCode</a>
+| <a href="mailto:ll7n21@hotmail.com"><i class="fa fa-envelope"></i>ll7n21@hotmail.com</a>
 </div>
 
 
 ## Career Summary
+Professional with progressive industry experience and dual degrees in both Software Engineering and Statistics. Previously worked as a software engineer at a leading technology firm focusing on optimisation of mobile platforms.
+Since 2023 I have been working at a major consulting firm, specialising in data engineering for Financial Services clients as well as digital forensic investigations through eDiscovery data management. My technical experience includes large-scale data processing, complex data management, and systematic investigation of datasets for digital forensic purposes.
 
-Software engineer with robust experience in coding, system design, and algorithmic problem-solving. Strong academic foundation in probabilistic modeling, statistical inference, and machine learning. Skilled in translating real-world data problems into structured, data-driven solutions.
 
 ### Specialized in
 
@@ -84,4 +90,5 @@ __Deloitte__, London, England
 <!-- ### Footer
 
 Last updated: Feb 2026 -->
+
 
