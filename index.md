@@ -11,7 +11,7 @@ Data Scientist & Engineer, Assistant Manager at Deloitte, seeking career transit
 
 <div id="webaddress">
 <a href="ll7n21.github.io/markdown-cv/"><i class="fa-solid fa-id-badge"></i>CV</a>
-| <a href="https://www.linkedin.com/in/ll7n21/"><i class="fa-brands fa-linkedin">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/ll7n21/"><i class="fa-brands fa-linkedin"></i>LinkedIn</a>
 | <a href="https://leetcode.com/u/ll7n21/"><i class="cib-leetcode"></i>LeetCode</a>
 | <a href="mailto:ll7n21@hotmail.com"><i class="fa fa-envelope"></i>ll7n21@hotmail.com</a>
 </div>
